@@ -27,6 +27,7 @@ public class PS
 
 	 private  int[][] PreValueCheck = new int[][] { { 1, 1,1 }, { 1,1, 1 }, { 1, 0, 0 } };
 //만영 ㅎㅎ
+	 //만영 ㅎㅎ2
 	
 	public Double valueCheck_below100(Double tmp)
 	{
