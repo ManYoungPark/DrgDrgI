@@ -41,7 +41,7 @@ public class PS
 		return Double.parseDouble(tmp2);
 	}
 
-	public static void main(String[] args)
+	public static void main(String[] args)	
 	{/*
 
 		PS a = new PS();
